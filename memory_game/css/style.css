@@ -82,3 +82,10 @@ footer {
 a:hover {
   border-color: white;
 }
+button {
+  margin-top: 20px;
+}
+#scorediv {
+  margin-top: 20px;
+  font-size: 18px;
+}
